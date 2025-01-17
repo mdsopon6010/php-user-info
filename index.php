@@ -28,7 +28,7 @@
 <body>
   
   <center>
-    <h2>UserInfo demo</h2>
+    <h2>UserInfo</h2>
   </center>
 
 	<table>
